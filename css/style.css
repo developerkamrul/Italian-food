@@ -1,0 +1,115 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.antic-font {
+  font-family: 'Antic Didone', serif;
+}
+
+.my-nav {
+  background-color: #766c4a;
+}
+.logo-img {
+  width: 288px;
+  height: 63px;
+}
+
+.slider {
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
+    url('../image/hero-img.png');
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  position: relative;
+}
+
+.hero {
+  padding-top: 250px;
+}
+
+.book-now-btn {
+  background-color: #766c4a;
+  width: 218px;
+  font-size: 30px;
+}
+
+.slide-div {
+  padding-top: 130px;
+}
+
+.section-bg {
+  padding-top: 10px;
+  background-size: contain;
+  background: url(../image/g2-img1.png), #cc9933;
+  background-position: 0px 30px;
+  background-repeat: no-repeat;
+  height: 560px;
+}
+
+.about-us-section {
+  padding-top: 150px;
+}
+
+.connect-us-section {
+  background: #766c4a;
+
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.connect-us-section img {
+  height: 400px;
+}
+.connect-us-btn {
+  background-color: #cc9933;
+  font-size: 25px;
+}
+
+.feature-section {
+  background-color: #cc9933;
+  padding-bottom: 60px;
+}
+.feature-heading {
+  padding-top: 100px;
+}
+
+.firt-time-offer-section {
+  padding-bottom: 30px;
+  height: 530px;
+  background: url(../image/bg-right1.png), #cc9933;
+  background-repeat: no-repeat;
+  background-position: 100% 0;
+}
+.first-time-text {
+  padding-top: 130px;
+}
+.offer-button {
+  padding-top: 40px;
+}
+.first-time-offer-btn {
+  font-size: 50px;
+  width: 400px;
+}
+
+.feature-img img {
+  width: 100%;
+}
+
+.comment-section {
+  height: 400px;
+  background-color: #cc9933;
+  padding: 130px;
+}
+
+.about-section {
+  padding-top: 80px;
+  background-color: #cc9933;
+}
+
+.about-section h1,
+.about-section h2 {
+  font-family: 'Antic Didone', serif;
+  color: white;
+}
